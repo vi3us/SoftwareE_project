@@ -5,7 +5,10 @@
 - These courses are made readily available for consultants based on the category they fall into (e.g. Graduates, Returners to Work, Ex-forces)
 
 ### Use case diagram
-
+![alt text](https://github.com/vi3us/SoftwareE_project/blob/main/images/User%20Case%20images/usercase_1.jpg)
+![alt text](https://github.com/vi3us/SoftwareE_project/blob/main/images/User%20Case%20images/usercase_2.jpg)
+![alt text](https://github.com/vi3us/SoftwareE_project/blob/main/images/User%20Case%20images/usercase_3.jpg)
 
 ### App demo
 
+https://github.com/vi3us/SoftwareE_project/blob/main/images/App%20Images/login.jpg
